@@ -58,7 +58,7 @@ It provides secure user authentication, an interactive ChatGPT-powered assistant
 | **Firebase Functions** | Serverless backend |
 | **TailwindCSS** | UI styling |
 | **Nuxt UI** | Ready UI components |
-| **ChatGPT API** | AI responses |
+| **ChatGPT-3.5 API** | AI responses |
 
 ---
 
